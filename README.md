@@ -12,7 +12,7 @@ The design focuses on content organization, typography hierarchy, spacing, and r
 
 Add your GitHub Pages link here:
 
-https://your-github-pages-link.com
+https://rafiantoas.github.io/recipe-page-ui/
 
 ---
 
